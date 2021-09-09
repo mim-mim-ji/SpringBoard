@@ -1,0 +1,16 @@
+127.0.0.1 - - [09/Sep/2021:13:09:49 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:09:50 +0900] "GET /mvc/WEB-INF/views/board/content.jsp HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:10:26 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:10:38 +0900] "GET /mvc/ HTTP/1.1" 200 29342
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:10:38 +0900] "GET /mvc/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 74256
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:10:38 +0900] "GET /mvc/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:10:38 +0900] "GET /mvc/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 625953
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:12:01 +0900] "GET /mvc/ HTTP/1.1" 200 29342
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:12:01 +0900] "GET /mvc/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:12:01 +0900] "GET /mvc/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 625953
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:12:27 +0900] "GET /mvc/%3Cc:url%20value='/board/list$%7Bpc.makeURI(pc.endPage%20+1)%7D'%20/%3E HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:12:28 +0900] "GET /mvc/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:12:28 +0900] "GET /mvc/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 625953
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:13:39 +0900] "GET null HTTP/1.1" 400 2187
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:13:40 +0900] "GET /mvc/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:13:13:40 +0900] "GET /mvc/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 625953
